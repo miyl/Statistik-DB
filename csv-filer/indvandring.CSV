@@ -1,0 +1,520 @@
+﻿indvandring_id;kommune_id;indbygger_gruppe_id;aarstal;indvandret_indeværende_aar;indvandret_foer_indeværende_aar
+1;1;1;2006;0;0
+2;1;1;2007;6902;103
+3;1;1;2008;7857;159
+4;1;1;2009;7565;159
+5;1;1;2010;8111;127
+6;1;1;2011;8054;164
+7;1;1;2012;8019;152
+8;1;1;2013;8934;160
+9;1;1;2014;9687;151
+10;1;1;2015;9686;172
+11;1;1;2016;9685;139
+12;1;1;2017;9726;174
+13;2;1;2006;0;0
+14;2;1;2007;1426;19
+15;2;1;2008;1461;34
+16;2;1;2009;1361;26
+17;2;1;2010;1359;51
+18;2;1;2011;1406;24
+19;2;1;2012;1398;21
+20;2;1;2013;1420;35
+21;2;1;2014;1644;42
+22;2;1;2015;1740;42
+23;2;1;2016;1679;38
+24;2;1;2017;1601;23
+25;1;20;2006;0;0
+26;1;20;2007;6787;72
+27;1;20;2008;7556;160
+28;1;20;2009;7507;133
+29;1;20;2010;7988;163
+30;1;20;2011;8246;118
+31;1;20;2012;8490;123
+32;1;20;2013;9211;142
+33;1;20;2014;9694;139
+34;1;20;2015;9972;163
+35;1;20;2016;10336;139
+36;1;20;2017;10592;170
+37;2;20;2006;0;0
+38;2;20;2007;1472;20
+39;2;20;2008;1522;31
+40;2;20;2009;1563;17
+41;2;20;2010;1607;32
+42;2;20;2011;1508;22
+43;2;20;2012;1554;21
+44;2;20;2013;1637;23
+45;2;20;2014;1811;36
+46;2;20;2015;1888;27
+47;2;20;2016;1820;31
+48;2;20;2017;1793;26
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+Mænd;Indvandret i indeværende år;København;0;6902;7857
+Mænd;Indvandret i indeværende år;Frederiksberg;0;1426;1461
+Mænd;Indvandret i indeværende år;Dragør;0;62;71
+Mænd;Indvandret i indeværende år;Tårnby;0;150;151
+Mænd;Indvandret i indeværende år;Albertslund;0;194;214
+Mænd;Indvandret i indeværende år;Ballerup;0;179;187
+Mænd;Indvandret i indeværende år;Brøndby;0;108;135
+Mænd;Indvandret i indeværende år;Gentofte;0;617;735
+Mænd;Indvandret i indeværende år;Gladsaxe;0;358;410
+Mænd;Indvandret i indeværende år;Glostrup;0;80;104
+Mænd;Indvandret i indeværende år;Herlev;0;78;97
+Mænd;Indvandret i indeværende år;Hvidovre;0;256;232
+Mænd;Indvandret i indeværende år;Høje-Taastrup;0;220;285
+Mænd;Indvandret i indeværende år;Ishøj;0;118;126
+Mænd;Indvandret i indeværende år;Lyngby-Taarbæk;0;633;639
+Mænd;Indvandret i indeværende år;Rødovre;0;156;193
+Mænd;Indvandret i indeværende år;Vallensbæk;0;68;95
+Mænd;Indvandret i indeværende år;Allerød;0;98;117
+Mænd;Indvandret i indeværende år;Egedal;0;137;135
+Mænd;Indvandret i indeværende år;Fredensborg;0;117;199
+Mænd;Indvandret i indeværende år;Frederikssund;0;138;135
+Mænd;Indvandret i indeværende år;Furesø;0;191;193
+Mænd;Indvandret i indeværende år;Gribskov;0;168;214
+Mænd;Indvandret i indeværende år;Halsnæs;0;108;169
+Mænd;Indvandret i indeværende år;Helsingør;0;276;355
+Mænd;Indvandret i indeværende år;Hillerød;0;253;259
+Mænd;Indvandret i indeværende år;Hørsholm;0;154;194
+Mænd;Indvandret i indeværende år;Rudersdal;0;383;415
+Mænd;Indvandret i indeværende år;Bornholm;0;108;124
+Mænd;Indvandret i indeværende år;Christiansø;0;0;0
+Mænd;Indvandret i indeværende år;Greve;0;174;165
+Mænd;Indvandret i indeværende år;Køge;0;170;184
+Mænd;Indvandret i indeværende år;Lejre;0;82;115
+Mænd;Indvandret i indeværende år;Roskilde;0;445;614
+Mænd;Indvandret i indeværende år;Solrød;0;61;74
+Mænd;Indvandret i indeværende år;Faxe;0;114;124
+Mænd;Indvandret i indeværende år;Guldborgsund;0;185;197
+Mænd;Indvandret i indeværende år;Holbæk;0;246;242
+Mænd;Indvandret i indeværende år;Kalundborg;0;131;192
+Mænd;Indvandret i indeværende år;Lolland;0;132;164
+Mænd;Indvandret i indeværende år;Næstved;0;282;303
+Mænd;Indvandret i indeværende år;Odsherred;0;117;120
+Mænd;Indvandret i indeværende år;Ringsted;0;134;156
+Mænd;Indvandret i indeværende år;Slagelse;0;222;278
+Mænd;Indvandret i indeværende år;Sorø;0;108;93
+Mænd;Indvandret i indeværende år;Stevns;0;61;92
+Mænd;Indvandret i indeværende år;Vordingborg;0;161;154
+Mænd;Indvandret i indeværende år;Assens;0;193;248
+Mænd;Indvandret i indeværende år;Faaborg-Midtfyn;0;248;305
+Mænd;Indvandret i indeværende år;Kerteminde;0;96;88
+Mænd;Indvandret i indeværende år;Langeland;0;36;50
+Mænd;Indvandret i indeværende år;Middelfart;0;153;155
+Mænd;Indvandret i indeværende år;Nordfyns;0;161;208
+Mænd;Indvandret i indeværende år;Nyborg;0;93;116
+Mænd;Indvandret i indeværende år;Odense;0;1187;1355
+Mænd;Indvandret i indeværende år;Svendborg;0;232;245
+Mænd;Indvandret i indeværende år;Ærø;0;49;56
+Mænd;Indvandret i indeværende år;Billund;0;148;141
+Mænd;Indvandret i indeværende år;Esbjerg;0;663;722
+Mænd;Indvandret i indeværende år;Fanø;0;20;24
+Mænd;Indvandret i indeværende år;Fredericia;0;165;183
+Mænd;Indvandret i indeværende år;Haderslev;0;276;314
+Mænd;Indvandret i indeværende år;Kolding;0;461;529
+Mænd;Indvandret i indeværende år;Sønderborg;0;458;553
+Mænd;Indvandret i indeværende år;Tønder;0;274;245
+Mænd;Indvandret i indeværende år;Varde;0;232;246
+Mænd;Indvandret i indeværende år;Vejen;0;206;287
+Mænd;Indvandret i indeværende år;Vejle;0;529;532
+Mænd;Indvandret i indeværende år;Aabenraa;0;411;431
+Mænd;Indvandret i indeværende år;Favrskov;0;133;178
+Mænd;Indvandret i indeværende år;Hedensted;0;290;296
+Mænd;Indvandret i indeværende år;Horsens;0;781;949
+Mænd;Indvandret i indeværende år;Norddjurs;0;192;130
+Mænd;Indvandret i indeværende år;Odder;0;73;118
+Mænd;Indvandret i indeværende år;Randers;0;315;304
+Mænd;Indvandret i indeværende år;Samsø;0;41;26
+Mænd;Indvandret i indeværende år;Silkeborg;0;346;413
+Mænd;Indvandret i indeværende år;Skanderborg;0;160;178
+Mænd;Indvandret i indeværende år;Syddjurs;0;220;207
+Mænd;Indvandret i indeværende år;Aarhus;0;2295;2828
+Mænd;Indvandret i indeværende år;Herning;0;498;758
+Mænd;Indvandret i indeværende år;Holstebro;0;301;288
+Mænd;Indvandret i indeværende år;Ikast-Brande;0;241;287
+Mænd;Indvandret i indeværende år;Lemvig;0;113;119
+Mænd;Indvandret i indeværende år;Ringkøbing-Skjern;0;435;453
+Mænd;Indvandret i indeværende år;Skive;0;236;223
+Mænd;Indvandret i indeværende år;Struer;0;161;164
+Mænd;Indvandret i indeværende år;Viborg;0;472;520
+Mænd;Indvandret i indeværende år;Brønderslev;0;131;140
+Mænd;Indvandret i indeværende år;Frederikshavn;0;236;275
+Mænd;Indvandret i indeværende år;Hjørring;0;231;194
+Mænd;Indvandret i indeværende år;Jammerbugt;0;119;155
+Mænd;Indvandret i indeværende år;Læsø;0;0;5
+Mænd;Indvandret i indeværende år;Mariagerfjord;0;173;244
+Mænd;Indvandret i indeværende år;Morsø;0;84;150
+Mænd;Indvandret i indeværende år;Rebild;0;153;153
+Mænd;Indvandret i indeværende år;Thisted;0;318;321
+Mænd;Indvandret i indeværende år;Vesthimmerlands;0;360;327
+Mænd;Indvandret i indeværende år;Aalborg;0;1279;1383
+Mænd;Indvandret før indeværende år;København;0;103;159
+Mænd;Indvandret før indeværende år;Frederiksberg;0;19;34
+Mænd;Indvandret før indeværende år;Dragør;0;2;3
+Mænd;Indvandret før indeværende år;Tårnby;0;4;5
+Mænd;Indvandret før indeværende år;Albertslund;0;1;6
+Mænd;Indvandret før indeværende år;Ballerup;0;2;5
+Mænd;Indvandret før indeværende år;Brøndby;0;5;5
+Mænd;Indvandret før indeværende år;Gentofte;0;18;38
+Mænd;Indvandret før indeværende år;Gladsaxe;0;7;12
+Mænd;Indvandret før indeværende år;Glostrup;0;0;2
+Mænd;Indvandret før indeværende år;Herlev;0;2;2
+Mænd;Indvandret før indeværende år;Hvidovre;0;4;1
+Mænd;Indvandret før indeværende år;Høje-Taastrup;0;1;6
+Mænd;Indvandret før indeværende år;Ishøj;0;0;8
+Mænd;Indvandret før indeværende år;Lyngby-Taarbæk;0;11;11
+Mænd;Indvandret før indeværende år;Rødovre;0;2;3
+Mænd;Indvandret før indeværende år;Vallensbæk;0;0;2
+Mænd;Indvandret før indeværende år;Allerød;0;2;2
+Mænd;Indvandret før indeværende år;Egedal;0;3;9
+Mænd;Indvandret før indeværende år;Fredensborg;0;1;6
+Mænd;Indvandret før indeværende år;Frederikssund;0;5;3
+Mænd;Indvandret før indeværende år;Furesø;0;2;3
+Mænd;Indvandret før indeværende år;Gribskov;0;5;3
+Mænd;Indvandret før indeværende år;Halsnæs;0;5;5
+Mænd;Indvandret før indeværende år;Helsingør;0;13;17
+Mænd;Indvandret før indeværende år;Hillerød;0;3;9
+Mænd;Indvandret før indeværende år;Hørsholm;0;6;10
+Mænd;Indvandret før indeværende år;Rudersdal;0;6;19
+Mænd;Indvandret før indeværende år;Bornholm;0;2;7
+Mænd;Indvandret før indeværende år;Christiansø;0;0;0
+Mænd;Indvandret før indeværende år;Greve;0;4;7
+Mænd;Indvandret før indeværende år;Køge;0;3;7
+Mænd;Indvandret før indeværende år;Lejre;0;3;3
+Mænd;Indvandret før indeværende år;Roskilde;0;8;19
+Mænd;Indvandret før indeværende år;Solrød;0;2;2
+Mænd;Indvandret før indeværende år;Faxe;0;2;4
+Mænd;Indvandret før indeværende år;Guldborgsund;0;5;11
+Mænd;Indvandret før indeværende år;Holbæk;0;1;11
+Mænd;Indvandret før indeværende år;Kalundborg;0;3;6
+Mænd;Indvandret før indeværende år;Lolland;0;1;3
+Mænd;Indvandret før indeværende år;Næstved;0;7;18
+Mænd;Indvandret før indeværende år;Odsherred;0;2;4
+Mænd;Indvandret før indeværende år;Ringsted;0;0;16
+Mænd;Indvandret før indeværende år;Slagelse;0;9;6
+Mænd;Indvandret før indeværende år;Sorø;0;5;4
+Mænd;Indvandret før indeværende år;Stevns;0;0;2
+Mænd;Indvandret før indeværende år;Vordingborg;0;2;12
+Mænd;Indvandret før indeværende år;Assens;0;1;12
+Mænd;Indvandret før indeværende år;Faaborg-Midtfyn;0;4;1
+Mænd;Indvandret før indeværende år;Kerteminde;0;1;1
+Mænd;Indvandret før indeværende år;Langeland;0;0;2
+Mænd;Indvandret før indeværende år;Middelfart;0;2;6
+Mænd;Indvandret før indeværende år;Nordfyns;0;2;10
+Mænd;Indvandret før indeværende år;Nyborg;0;2;8
+Mænd;Indvandret før indeværende år;Odense;0;12;19
+Mænd;Indvandret før indeværende år;Svendborg;0;3;19
+Mænd;Indvandret før indeværende år;Ærø;0;0;2
+Mænd;Indvandret før indeværende år;Billund;0;1;1
+Mænd;Indvandret før indeværende år;Esbjerg;0;16;46
+Mænd;Indvandret før indeværende år;Fanø;0;0;0
+Mænd;Indvandret før indeværende år;Fredericia;0;6;4
+Mænd;Indvandret før indeværende år;Haderslev;0;4;7
+Mænd;Indvandret før indeværende år;Kolding;0;9;11
+Mænd;Indvandret før indeværende år;Sønderborg;0;12;14
+Mænd;Indvandret før indeværende år;Tønder;0;4;8
+Mænd;Indvandret før indeværende år;Varde;0;7;13
+Mænd;Indvandret før indeværende år;Vejen;0;4;6
+Mænd;Indvandret før indeværende år;Vejle;0;10;25
+Mænd;Indvandret før indeværende år;Aabenraa;0;12;14
+Mænd;Indvandret før indeværende år;Favrskov;0;3;6
+Mænd;Indvandret før indeværende år;Hedensted;0;1;15
+Mænd;Indvandret før indeværende år;Horsens;0;5;16
+Mænd;Indvandret før indeværende år;Norddjurs;0;1;6
+Mænd;Indvandret før indeværende år;Odder;0;3;3
+Mænd;Indvandret før indeværende år;Randers;0;5;12
+Mænd;Indvandret før indeværende år;Samsø;0;1;1
+Mænd;Indvandret før indeværende år;Silkeborg;0;8;12
+Mænd;Indvandret før indeværende år;Skanderborg;0;2;2
+Mænd;Indvandret før indeværende år;Syddjurs;0;3;3
+Mænd;Indvandret før indeværende år;Aarhus;0;33;61
+Mænd;Indvandret før indeværende år;Herning;0;1;12
+Mænd;Indvandret før indeværende år;Holstebro;0;6;5
+Mænd;Indvandret før indeværende år;Ikast-Brande;0;2;10
+Mænd;Indvandret før indeværende år;Lemvig;0;1;2
+Mænd;Indvandret før indeværende år;Ringkøbing-Skjern;0;1;9
+Mænd;Indvandret før indeværende år;Skive;0;3;2
+Mænd;Indvandret før indeværende år;Struer;0;1;6
+Mænd;Indvandret før indeværende år;Viborg;0;7;15
+Mænd;Indvandret før indeværende år;Brønderslev;0;0;2
+Mænd;Indvandret før indeværende år;Frederikshavn;0;10;8
+Mænd;Indvandret før indeværende år;Hjørring;0;11;9
+Mænd;Indvandret før indeværende år;Jammerbugt;0;4;4
+Mænd;Indvandret før indeværende år;Læsø;0;0;0
+Mænd;Indvandret før indeværende år;Mariagerfjord;0;2;6
+Mænd;Indvandret før indeværende år;Morsø;0;3;6
+Mænd;Indvandret før indeværende år;Rebild;0;4;2
+Mænd;Indvandret før indeværende år;Thisted;0;4;8
+Mænd;Indvandret før indeværende år;Vesthimmerlands;0;0;10
+Mænd;Indvandret før indeværende år;Aalborg;0;12;19
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+Kvinder;Indvandret i indeværende år;København;0;6787;7556
+Kvinder;Indvandret i indeværende år;Frederiksberg;0;1472;1522
+Kvinder;Indvandret i indeværende år;Dragør;0;55;83
+Kvinder;Indvandret i indeværende år;Tårnby;0;129;151
+Kvinder;Indvandret i indeværende år;Albertslund;0;171;199
+Kvinder;Indvandret i indeværende år;Ballerup;0;165;180
+Kvinder;Indvandret i indeværende år;Brøndby;0;126;133
+Kvinder;Indvandret i indeværende år;Gentofte;0;886;1100
+Kvinder;Indvandret i indeværende år;Gladsaxe;0;327;395
+Kvinder;Indvandret i indeværende år;Glostrup;0;76;103
+Kvinder;Indvandret i indeværende år;Herlev;0;86;106
+Kvinder;Indvandret i indeværende år;Hvidovre;0;190;254
+Kvinder;Indvandret i indeværende år;Høje-Taastrup;0;218;237
+Kvinder;Indvandret i indeværende år;Ishøj;0;102;115
+Kvinder;Indvandret i indeværende år;Lyngby-Taarbæk;0;523;595
+Kvinder;Indvandret i indeværende år;Rødovre;0;124;149
+Kvinder;Indvandret i indeværende år;Vallensbæk;0;52;82
+Kvinder;Indvandret i indeværende år;Allerød;0;100;126
+Kvinder;Indvandret i indeværende år;Egedal;0;133;138
+Kvinder;Indvandret i indeværende år;Fredensborg;0;175;223
+Kvinder;Indvandret i indeværende år;Frederikssund;0;118;136
+Kvinder;Indvandret i indeværende år;Furesø;0;183;225
+Kvinder;Indvandret i indeværende år;Gribskov;0;143;191
+Kvinder;Indvandret i indeværende år;Halsnæs;0;89;123
+Kvinder;Indvandret i indeværende år;Helsingør;0;295;335
+Kvinder;Indvandret i indeværende år;Hillerød;0;251;262
+Kvinder;Indvandret i indeværende år;Hørsholm;0;204;231
+Kvinder;Indvandret i indeværende år;Rudersdal;0;500;538
+Kvinder;Indvandret i indeværende år;Bornholm;0;146;127
+Kvinder;Indvandret i indeværende år;Christiansø;0;1;0
+Kvinder;Indvandret i indeværende år;Greve;0;153;171
+Kvinder;Indvandret i indeværende år;Køge;0;133;172
+Kvinder;Indvandret i indeværende år;Lejre;0;84;100
+Kvinder;Indvandret i indeværende år;Roskilde;0;428;528
+Kvinder;Indvandret i indeværende år;Solrød;0;58;69
+Kvinder;Indvandret i indeværende år;Faxe;0;94;102
+Kvinder;Indvandret i indeværende år;Guldborgsund;0;196;204
+Kvinder;Indvandret i indeværende år;Holbæk;0;193;220
+Kvinder;Indvandret i indeværende år;Kalundborg;0;115;159
+Kvinder;Indvandret i indeværende år;Lolland;0;129;142
+Kvinder;Indvandret i indeværende år;Næstved;0;248;239
+Kvinder;Indvandret i indeværende år;Odsherred;0;85;93
+Kvinder;Indvandret i indeværende år;Ringsted;0;96;123
+Kvinder;Indvandret i indeværende år;Slagelse;0;221;234
+Kvinder;Indvandret i indeværende år;Sorø;0;85;88
+Kvinder;Indvandret i indeværende år;Stevns;0;63;80
+Kvinder;Indvandret i indeværende år;Vordingborg;0;147;119
+Kvinder;Indvandret i indeværende år;Assens;0;148;176
+Kvinder;Indvandret i indeværende år;Faaborg-Midtfyn;0;148;187
+Kvinder;Indvandret i indeværende år;Kerteminde;0;68;90
+Kvinder;Indvandret i indeværende år;Langeland;0;51;30
+Kvinder;Indvandret i indeværende år;Middelfart;0;130;139
+Kvinder;Indvandret i indeværende år;Nordfyns;0;84;122
+Kvinder;Indvandret i indeværende år;Nyborg;0;70;71
+Kvinder;Indvandret i indeværende år;Odense;0;1241;1273
+Kvinder;Indvandret i indeværende år;Svendborg;0;215;213
+Kvinder;Indvandret i indeværende år;Ærø;0;40;30
+Kvinder;Indvandret i indeværende år;Billund;0;94;86
+Kvinder;Indvandret i indeværende år;Esbjerg;0;561;639
+Kvinder;Indvandret i indeværende år;Fanø;0;18;26
+Kvinder;Indvandret i indeværende år;Fredericia;0;120;168
+Kvinder;Indvandret i indeværende år;Haderslev;0;209;285
+Kvinder;Indvandret i indeværende år;Kolding;0;357;521
+Kvinder;Indvandret i indeværende år;Sønderborg;0;444;502
+Kvinder;Indvandret i indeværende år;Tønder;0;195;219
+Kvinder;Indvandret i indeværende år;Varde;0;186;252
+Kvinder;Indvandret i indeværende år;Vejen;0;149;184
+Kvinder;Indvandret i indeværende år;Vejle;0;418;524
+Kvinder;Indvandret i indeværende år;Aabenraa;0;370;383
+Kvinder;Indvandret i indeværende år;Favrskov;0;142;154
+Kvinder;Indvandret i indeværende år;Hedensted;0;145;173
+Kvinder;Indvandret i indeværende år;Horsens;0;586;645
+Kvinder;Indvandret i indeværende år;Norddjurs;0;122;123
+Kvinder;Indvandret i indeværende år;Odder;0;89;96
+Kvinder;Indvandret i indeværende år;Randers;0;273;239
+Kvinder;Indvandret i indeværende år;Samsø;0;32;20
+Kvinder;Indvandret i indeværende år;Silkeborg;0;284;354
+Kvinder;Indvandret i indeværende år;Skanderborg;0;160;171
+Kvinder;Indvandret i indeværende år;Syddjurs;0;216;234
+Kvinder;Indvandret i indeværende år;Aarhus;0;2526;2916
+Kvinder;Indvandret i indeværende år;Herning;0;393;480
+Kvinder;Indvandret i indeværende år;Holstebro;0;195;244
+Kvinder;Indvandret i indeværende år;Ikast-Brande;0;191;174
+Kvinder;Indvandret i indeværende år;Lemvig;0;91;87
+Kvinder;Indvandret i indeværende år;Ringkøbing-Skjern;0;320;321
+Kvinder;Indvandret i indeværende år;Skive;0;158;165
+Kvinder;Indvandret i indeværende år;Struer;0;69;109
+Kvinder;Indvandret i indeværende år;Viborg;0;404;483
+Kvinder;Indvandret i indeværende år;Brønderslev;0;99;110
+Kvinder;Indvandret i indeværende år;Frederikshavn;0;233;218
+Kvinder;Indvandret i indeværende år;Hjørring;0;207;207
+Kvinder;Indvandret i indeværende år;Jammerbugt;0;116;128
+Kvinder;Indvandret i indeværende år;Læsø;0;3;3
+Kvinder;Indvandret i indeværende år;Mariagerfjord;0;126;158
+Kvinder;Indvandret i indeværende år;Morsø;0;75;70
+Kvinder;Indvandret i indeværende år;Rebild;0;103;101
+Kvinder;Indvandret i indeværende år;Thisted;0;238;235
+Kvinder;Indvandret i indeværende år;Vesthimmerlands;0;140;224
+Kvinder;Indvandret i indeværende år;Aalborg;0;1199;1179
+Kvinder;Indvandret før indeværende år;København;0;72;160
+Kvinder;Indvandret før indeværende år;Frederiksberg;0;20;31
+Kvinder;Indvandret før indeværende år;Dragør;0;5;4
+Kvinder;Indvandret før indeværende år;Tårnby;0;1;5
+Kvinder;Indvandret før indeværende år;Albertslund;0;3;6
+Kvinder;Indvandret før indeværende år;Ballerup;0;2;2
+Kvinder;Indvandret før indeværende år;Brøndby;0;3;3
+Kvinder;Indvandret før indeværende år;Gentofte;0;16;23
+Kvinder;Indvandret før indeværende år;Gladsaxe;0;2;10
+Kvinder;Indvandret før indeværende år;Glostrup;0;0;4
+Kvinder;Indvandret før indeværende år;Herlev;0;2;6
+Kvinder;Indvandret før indeværende år;Hvidovre;0;0;0
+Kvinder;Indvandret før indeværende år;Høje-Taastrup;0;1;5
+Kvinder;Indvandret før indeværende år;Ishøj;0;0;3
+Kvinder;Indvandret før indeværende år;Lyngby-Taarbæk;0;11;8
+Kvinder;Indvandret før indeværende år;Rødovre;0;3;3
+Kvinder;Indvandret før indeværende år;Vallensbæk;0;3;3
+Kvinder;Indvandret før indeværende år;Allerød;0;0;2
+Kvinder;Indvandret før indeværende år;Egedal;0;2;10
+Kvinder;Indvandret før indeværende år;Fredensborg;0;1;15
+Kvinder;Indvandret før indeværende år;Frederikssund;0;5;3
+Kvinder;Indvandret før indeværende år;Furesø;0;4;3
+Kvinder;Indvandret før indeværende år;Gribskov;0;4;4
+Kvinder;Indvandret før indeværende år;Halsnæs;0;3;5
+Kvinder;Indvandret før indeværende år;Helsingør;0;8;14
+Kvinder;Indvandret før indeværende år;Hillerød;0;2;7
+Kvinder;Indvandret før indeværende år;Hørsholm;0;5;6
+Kvinder;Indvandret før indeværende år;Rudersdal;0;6;16
+Kvinder;Indvandret før indeværende år;Bornholm;0;3;2
+Kvinder;Indvandret før indeværende år;Christiansø;0;0;0
+Kvinder;Indvandret før indeværende år;Greve;0;1;1
+Kvinder;Indvandret før indeværende år;Køge;0;1;3
+Kvinder;Indvandret før indeværende år;Lejre;0;1;3
+Kvinder;Indvandret før indeværende år;Roskilde;0;4;6
+Kvinder;Indvandret før indeværende år;Solrød;0;1;2
+Kvinder;Indvandret før indeværende år;Faxe;0;2;4
+Kvinder;Indvandret før indeværende år;Guldborgsund;0;4;6
+Kvinder;Indvandret før indeværende år;Holbæk;0;1;7
+Kvinder;Indvandret før indeværende år;Kalundborg;0;4;1
+Kvinder;Indvandret før indeværende år;Lolland;0;1;6
+Kvinder;Indvandret før indeværende år;Næstved;0;8;10
+Kvinder;Indvandret før indeværende år;Odsherred;0;2;4
+Kvinder;Indvandret før indeværende år;Ringsted;0;0;6
+Kvinder;Indvandret før indeværende år;Slagelse;0;3;6
+Kvinder;Indvandret før indeværende år;Sorø;0;3;2
+Kvinder;Indvandret før indeværende år;Stevns;0;0;1
+Kvinder;Indvandret før indeværende år;Vordingborg;0;2;3
+Kvinder;Indvandret før indeværende år;Assens;0;1;5
+Kvinder;Indvandret før indeværende år;Faaborg-Midtfyn;0;5;3
+Kvinder;Indvandret før indeværende år;Kerteminde;0;0;1
+Kvinder;Indvandret før indeværende år;Langeland;0;0;4
+Kvinder;Indvandret før indeværende år;Middelfart;0;1;1
+Kvinder;Indvandret før indeværende år;Nordfyns;0;3;6
+Kvinder;Indvandret før indeværende år;Nyborg;0;0;5
+Kvinder;Indvandret før indeværende år;Odense;0;8;18
+Kvinder;Indvandret før indeværende år;Svendborg;0;2;7
+Kvinder;Indvandret før indeværende år;Ærø;0;1;0
+Kvinder;Indvandret før indeværende år;Billund;0;0;0
+Kvinder;Indvandret før indeværende år;Esbjerg;0;12;14
+Kvinder;Indvandret før indeværende år;Fanø;0;0;0
+Kvinder;Indvandret før indeværende år;Fredericia;0;4;3
+Kvinder;Indvandret før indeværende år;Haderslev;0;5;5
+Kvinder;Indvandret før indeværende år;Kolding;0;5;9
+Kvinder;Indvandret før indeværende år;Sønderborg;0;6;10
+Kvinder;Indvandret før indeværende år;Tønder;0;2;10
+Kvinder;Indvandret før indeværende år;Varde;0;4;7
+Kvinder;Indvandret før indeværende år;Vejen;0;2;3
+Kvinder;Indvandret før indeværende år;Vejle;0;6;21
+Kvinder;Indvandret før indeværende år;Aabenraa;0;9;16
+Kvinder;Indvandret før indeværende år;Favrskov;0;7;3
+Kvinder;Indvandret før indeværende år;Hedensted;0;0;2
+Kvinder;Indvandret før indeværende år;Horsens;0;1;7
+Kvinder;Indvandret før indeværende år;Norddjurs;0;2;1
+Kvinder;Indvandret før indeværende år;Odder;0;0;0
+Kvinder;Indvandret før indeværende år;Randers;0;2;11
+Kvinder;Indvandret før indeværende år;Samsø;0;1;0
+Kvinder;Indvandret før indeværende år;Silkeborg;0;5;8
+Kvinder;Indvandret før indeværende år;Skanderborg;0;2;0
+Kvinder;Indvandret før indeværende år;Syddjurs;0;1;1
+Kvinder;Indvandret før indeværende år;Aarhus;0;28;42
+Kvinder;Indvandret før indeværende år;Herning;0;6;7
+Kvinder;Indvandret før indeværende år;Holstebro;0;2;5
+Kvinder;Indvandret før indeværende år;Ikast-Brande;0;1;5
+Kvinder;Indvandret før indeværende år;Lemvig;0;0;1
+Kvinder;Indvandret før indeværende år;Ringkøbing-Skjern;0;3;7
+Kvinder;Indvandret før indeværende år;Skive;0;0;2
+Kvinder;Indvandret før indeværende år;Struer;0;0;1
+Kvinder;Indvandret før indeværende år;Viborg;0;2;13
+Kvinder;Indvandret før indeværende år;Brønderslev;0;0;2
+Kvinder;Indvandret før indeværende år;Frederikshavn;0;2;9
+Kvinder;Indvandret før indeværende år;Hjørring;0;3;7
+Kvinder;Indvandret før indeværende år;Jammerbugt;0;1;2
+Kvinder;Indvandret før indeværende år;Læsø;0;0;0
+Kvinder;Indvandret før indeværende år;Mariagerfjord;0;1;5
+Kvinder;Indvandret før indeværende år;Morsø;0;1;3
+Kvinder;Indvandret før indeværende år;Rebild;0;2;2
+Kvinder;Indvandret før indeværende år;Thisted;0;1;3
+Kvinder;Indvandret før indeværende år;Vesthimmerlands;0;1;5
+Kvinder;Indvandret før indeværende år;Aalborg;0;8;9
