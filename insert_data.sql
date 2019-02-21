@@ -21,36 +21,41 @@ SET FOREIGN_KEY_CHECKS=1;
 -- The path for LOAD DATA should be for the server!
 -- Your INFILE path may have to be updated!
 LOAD DATA
-  INFILE '/var/lib/mysql/kommune.csv' 
+  INFILE '/var/lib/mysql/csv-filer/kommune.csv' 
   INTO TABLE kommune
+  CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
   ;
 
 LOAD DATA
-  INFILE '/var/lib/mysql/indbygger_gruppe.CSV' 
-  INTO TABLE indbygger_gruppe;
+  INFILE '/var/lib/mysql/csv-filer/indbygger_gruppe.csv' 
+  INTO TABLE indbygger_gruppe
+  CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
   ;
 
 LOAD DATA
-  INFILE '/var/lib/mysql/foedsler_og_doedsfald.CSV' 
+  INFILE '/var/lib/mysql/csv-filer/foedsler_og_doedsfald.csv' 
   INTO TABLE foedsler_og_doedsfald
+  CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
   ;
 
 LOAD DATA
-  INFILE '/var/lib/mysql/indvandring.CSV' 
+  INFILE '/var/lib/mysql/csv-filer/indvandring.csv' 
   INTO TABLE indvandring
+  CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
   ;
 
 LOAD DATA
-  INFILE '/var/lib/mysql/udvandring.CSV' 
+  INFILE '/var/lib/mysql/csv-filer/udvandring.csv' 
   INTO TABLE udvandring
+  CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
   ;
