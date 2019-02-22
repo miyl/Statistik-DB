@@ -8,20 +8,20 @@ dato: 20.2.19
 
 CREATE TABLE kommune
 (
-    kommune_id INT PRIMARY KEY,
+    kommune_id INT PRIMARY KEY AUTO_INCREMENT,
     kommune_navn VARCHAR(50) NOT NULL UNIQUE
 );
 
 CREATE TABLE indbygger_gruppe
 (
-    indbygger_gruppe_id INT PRIMARY KEY,
+    indbygger_gruppe_id INT PRIMARY KEY AUTO_INCREMENT,
     koen CHAR(1) NOT NULL,
     aldersgruppe VARCHAR(7) NOT NULL
 );
 
 CREATE TABLE udvandring
 (
-	udvandring_id INT PRIMARY KEY,
+    udvandring_id INT PRIMARY KEY AUTO_INCREMENT,
     kommune_id INT NOT NULL,
     indbygger_gruppe_id INT NOT NULL,
     aarstal INT NOT NULL,
@@ -34,7 +34,7 @@ CREATE TABLE udvandring
 
 CREATE TABLE indvandring
 (
-    indvandring_id INT PRIMARY KEY,
+    indvandring_id INT PRIMARY KEY AUTO_INCREMENT,
     kommune_id INT NOT NULL,
     indbygger_gruppe_id INT NOT NULL,
     aarstal INT NOT NULL,
@@ -47,7 +47,7 @@ CREATE TABLE indvandring
 
 CREATE TABLE foedsler_og_doedsfald
 (
-    foedsler_og_doedsfald_id INT PRIMARY KEY,
+    foedsler_og_doedsfald_id INT PRIMARY KEY AUTO_INCREMENT,
     kommune_id INT NOT NULL,
     indbygger_gruppe_id INT NOT NULL,
     aarstal INT NOT NULL,
@@ -60,7 +60,7 @@ CREATE TABLE foedsler_og_doedsfald
 
 CREATE TABLE flytning
 (
-    flytning_id INT PRIMARY KEY,
+    flytning_id INT PRIMARY KEY AUTO_INCREMENT,
     fra_flytnings_kommune INT NOT NULL,
     til_flytnings_kommune INT NOT NULL,
     indbygger_gruppe_id INT NOT NULL,

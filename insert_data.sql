@@ -26,6 +26,8 @@ LOAD DATA
   CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
+  (kommune_navn)
+	SET kommune_id = NULL
   ;
 
 LOAD DATA
@@ -34,6 +36,8 @@ LOAD DATA
   CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
+  (koen,aldersgruppe)
+	SET indbygger_gruppe_id = NULL
   ;
 
 LOAD DATA
@@ -42,6 +46,8 @@ LOAD DATA
   CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
+  (kommune_id,indbygger_gruppe_id,aarstal,antal_foedte,antal_doede)
+	SET foedsler_og_doedsfald_id = NULL
   ;
 
 LOAD DATA
@@ -50,6 +56,8 @@ LOAD DATA
   CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
+  (kommune_id,indbygger_gruppe_id,aarstal,indvandret_indevaerende_aar,indvandret_foer_indevaerende_aar)
+	SET indvandring_id = NULL
   ;
 
 LOAD DATA
@@ -58,4 +66,16 @@ LOAD DATA
   CHARACTER SET UTF8
   FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\'
   IGNORE 1 LINES
+  (kommune_id, indbygger_gruppe_id, aarstal, udvandret_indevaerende_aar, udvandret_foer_indevaerende_aar)
+	SET udvandring_id = NULL
   ;
+
+LOAD DATA 
+  INFILE '/var/lib/mysql/csv-filer/flytning.csv' 
+	INTO TABLE flytning
+  CHARACTER SET UTF8
+	FIELDS TERMINATED BY ',' ENCLOSED BY '' ESCAPED BY '\\'
+  IGNORE 1 LINES
+	(indbygger_gruppe_id, fra_flytnings_kommune, til_flytnings_kommune, aarstal, antal_flyttede)
+	SET flytning_id = NULL
+	;
