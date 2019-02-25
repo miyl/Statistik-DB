@@ -1,0 +1,41 @@
+#! /usr/bin/env sh
+
+sed -e 's/Mænd,0-150 år/1/g' \
+-e 's/Mænd,0-4 år/2/g' \
+-e 's/Mænd,5-9 år/3/g' \
+-e 's/Mænd,10-14 år/4/g' \
+-e 's/Mænd,15-19 år/5/g' \
+-e 's/Mænd,20-24 år/6/g' \
+-e 's/Mænd,25-29 år/7/g' \
+-e 's/Mænd,30-34 år/8/g' \
+-e 's/Mænd,35-39 år/9/g' \
+-e 's/Mænd,40-44 år/10/g' \
+-e 's/Mænd,45-49 år/11/g' \
+-e 's/Mænd,50-54 år/12/g' \
+-e 's/Mænd,55-59 år/13/g' \
+-e 's/Mænd,60-64 år/14/g' \
+-e 's/Mænd,65-69 år/15/g' \
+-e 's/Mænd,70-74 år/16/g' \
+-e 's/Mænd,75-79 år/17/g' \
+-e 's/Mænd,80-84 år/18/g' \
+-e 's/Mænd,85-89 år/19/g' \
+-e 's/Kvinder,0-150 år/20/g' \
+-e 's/Kvinder,0-4 år/21/g' \
+-e 's/Kvinder,5-9 år/22/g' \
+-e 's/Kvinder,10-14 år/23/g' \
+-e 's/Kvinder,15-19 år/24/g' \
+-e 's/Kvinder,20-24 år/25/g' \
+-e 's/Kvinder,25-29 år/26/g' \
+-e 's/Kvinder,30-34 år/27/g' \
+-e 's/Kvinder,35-39 år/28/g' \
+-e 's/Kvinder,40-44 år/29/g' \
+-e 's/Kvinder,45-49 år/30/g' \
+-e 's/Kvinder,50-54 år/31/g' \
+-e 's/Kvinder,55-59 år/32/g' \
+-e 's/Kvinder,60-64 år/33/g' \
+-e 's/Kvinder,65-69 år/34/g' \
+-e 's/Kvinder,70-74 år/35/g' \
+-e 's/Kvinder,75-79 år/36/g' \
+-e 's/Kvinder,80-84 år/37/g' \
+-e 's/Kvinder,85-89 år/38/g' \
+tmp4/fra_til_med_id.csv > final.csv

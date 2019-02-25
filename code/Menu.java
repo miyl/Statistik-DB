@@ -1,4 +1,5 @@
 import static statics.StaticLib.*;
+import dbconnect.*;
 
 public class Menu {
   
@@ -7,7 +8,10 @@ public class Menu {
   public Menu() {
     running = true;
 
-    new DBConnect();
+    DBConnect dbc = new DBConnect();
+    Query q = new Query( dbc.getConnection() );
+    q.testRun();
+    q.selectGeneral("kommune", "", "kommune_id", "kommune_navn");
   }
   
 
@@ -31,7 +35,7 @@ public class Menu {
       "1. \n" + 
       "2. \n" + 
       "--------------\n" +
-      "3. \n" +
+      "3. Quit \n" +
       "\n" +
       "Make your choice by typing one of the numbers above, followed by Enter. ");
   }
@@ -43,6 +47,8 @@ public class Menu {
         break;
       case 2:
         break;
+      case 3:
+        running = false;
     }
   }
   

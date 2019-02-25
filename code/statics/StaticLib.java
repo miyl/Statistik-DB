@@ -72,16 +72,29 @@ public class StaticLib {
     return value;
   }
 
+  public static String getOS() {
+
+    String fullName = System.getProperty("os.name").toLowerCase();
+
+    // -1 = NOT FOUND
+    if ( fullName.indexOf("win") > -1 ) return "Windows";
+    else if ( fullName.indexOf("mac") > -1 ) return "macOS";
+
+    else return "Linux";
+
+  }
+
   // Cross platform screen clearing
   public static void clearScreen() {
-    if (System.getProperty("os.name").toLowerCase().indexOf("win") != -1) {
+    if (getOS() == "Windows") {
       try {
+          // Run a shell in the current thread with the cls (clear screen) command.
           new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
       }
       catch (IOException | InterruptedException e) {}
     }
     else {  // Works for Linux and macOS
-      String ansiClear = "\033[H\033[2J";
+      String ansiClear = "\033[H\033[2J"; // The ANSI escape code for screen clearing
       System.out.print(ansiClear);
       System.out.flush();
       //Runtime.getRuntime().exec("clear");
