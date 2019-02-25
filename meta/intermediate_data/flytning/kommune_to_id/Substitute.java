@@ -1,6 +1,6 @@
 package kommune_to_id;
 
-import java.io.FileNotFoundException;
+import java.io.IOException;
 
 // For genKommuneMap
 import java.util.Scanner;
@@ -44,7 +44,7 @@ public class Substitute {
         kommuneMap.put( scanner.next(), scanner.next() );
       }
     }
-    catch (Exception e) {
+    catch (IOException e) {
       System.out.println("GenKommuneMap: " + e);
     }
   }

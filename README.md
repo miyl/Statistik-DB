@@ -2,7 +2,12 @@
 
 ## TODO
 
+### In progress
+
+1. Finish the Java program
+3. Finish the report
+3. "Korrektioner" table
+
+### Done
+
 1. Setup JDBC connection in Java
-2. Create the rest of the Java program
-3. Create the report
-4. "Korrektioner"? Create a table if we have time or write about what we would have done in the report
