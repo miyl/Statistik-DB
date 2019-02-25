@@ -19,25 +19,22 @@ public class DBConnect {
     // DEBUG
     //testMariaDB();
     //testDB();
+    Config config = new Config();
 
-    // WRITE IN YOUR CONFIG HERE!:
     final String DB_PRE = "jdbc";
     final String DB_SUB_PROTOCOL = ":mysql://";
-    //final String DB_ADDRESS = "localhost" + ":"; 
-    final String DB_ADDRESS = "localhost";
-    final String DB_PORT = ":" + "3306";
-    final String DB_NAME = "/" + "modulopgave1";
+
+    final String DB_ADDRESS = config.getConfigValue("address"); 
+    final String DB_PORT = ":" + config.getConfigValue("port");
+    final String DB_NAME = "/" + config.getConfigValue("name");
     
     final String FULL_DB_STRING = DB_PRE + DB_SUB_PROTOCOL + DB_ADDRESS + DB_PORT + DB_NAME;
 
-    final String USERNAME = "";
-    final String PASSWORD = "";
-
-    //final String FULL_DB_STRING_V2 = DB_PRE + DB_ADDRESS + DB_PORT + DB_NAME + "," + USERNAME + "," + PASSWORD;
+    final String USERNAME = config.getConfigValue("user");
+    final String PASSWORD = config.getConfigValue("pass");
 
     try {
       conn = DriverManager.getConnection(FULL_DB_STRING, USERNAME, PASSWORD);
-      //conn = DriverManager.getConnection(FULL_DB_STRING_V2);
     }
     catch(Exception e) { System.out.println("DBConnect: " + e);}
     //TODO: Close connection afterwards!
